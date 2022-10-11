@@ -96,7 +96,7 @@ Software Engineering motivates me because I learn something new everyday, and It
 
 <br/>  
 
-<div align="center">
+<div >
 <img src="https://komarev.com/ghpvc/?username=DafneRibeiro&&style=flat-square" align="center" />
 </div>  
   
