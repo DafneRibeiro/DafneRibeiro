@@ -117,3 +117,5 @@ Software Engineering motivates me because I learn something new everyday, and It
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DafneRibeiro)](https://git.io/streak-stats)
