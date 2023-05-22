@@ -12,7 +12,7 @@
 - 🎓 I recently completed the Digital Futures 12 weeks Software Engineering Academy.  
   
 
-- 💻At the moment I’m practicing what I have been learning with Digital Futures. I recently finish working on a MERN full Stack Project including a mobile app. [GamingNetworkApp](https://github.com/DafneRibeiro/GamingNetworkApp)  
+- 💻At the moment I’m practicing what I have been studying and working on a few repositories, so please bear with me if some of my repo are still a WIP. I recently finish working on a MERN full Stack Project including a mobile app. [GamingNetworkApp](https://github.com/DafneRibeiro/GamingNetworkApp)  
   
 
 - 🔭 I’m currently preparing for the Java SE 8 certification.  
