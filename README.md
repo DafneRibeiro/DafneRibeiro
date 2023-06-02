@@ -14,7 +14,7 @@
 
 - 💻At the moment I’m practicing what I have been studying and working on a few repositories, so please bear with me if some of my repo are still a WIP. I recently finish working on a MERN full Stack Project including a mobile app. [GamingNetworkApp](https://github.com/DafneRibeiro/GamingNetworkApp)  
 
-I am also happy to share that together with 3 amazing women, are starting a non-profitable project for a NGO in Brazil, a website to help them relocate mistreated and abandoned animals faster.
+- I am also happy to share that together with 3 amazing women, are starting a non-profitable project for a NGO in Brazil, a website to help them relocate mistreated and abandoned animals faster.
   
 
 - 🔭 I’m currently preparing for the Java OCA SE 8 certification.  
