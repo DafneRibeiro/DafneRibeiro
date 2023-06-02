@@ -13,9 +13,11 @@
   
 
 - 💻At the moment I’m practicing what I have been studying and working on a few repositories, so please bear with me if some of my repo are still a WIP. I recently finish working on a MERN full Stack Project including a mobile app. [GamingNetworkApp](https://github.com/DafneRibeiro/GamingNetworkApp)  
+
+I am also happy to share that together with 3 amazing women, are starting a non-profitable project for a NGO in Brazil, a website to help them relocate mistreated and abandoned animals faster.
   
 
-- 🔭 I’m currently preparing for the Java SE 8 certification.  
+- 🔭 I’m currently preparing for the Java OCA SE 8 certification.  
   
 
 - 🧠 I'm looking foward to learn more technologies like: Golang, Python, Ruby, and a few more.  
@@ -25,7 +27,9 @@
   
 
 - ⚡ About me: I am Brazilian/Italian, I am currently living in the UK, and I come from a non Tech background.
-Software Engineering motivates me because I learn something new everyday, and It is very challenging and pushes me to try to be my best everyday .🌟  
+Software Engineering motivates me because I learn something new everyday, and It is very challenging and pushes me to try to be my best everyday .🌟
+
+I have always been a self-starter and love learning things by myself.
   
 
 <br/>  
