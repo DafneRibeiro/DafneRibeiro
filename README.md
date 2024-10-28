@@ -3,34 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Dafne Ribeiro, a Software Engineer 👨‍💻 </div>  
+### <div align="center">I'm Dafne Ribeiro, a Software Engineer with a passion for development and continuous learning. 👨‍💻 </div>  
   
+🚀 I began my journey in November 2021 with HTML, CSS, and Python. Now, I'm specializing in C# and Blazor as part of the development team at Auger, where I collaborate with a focused group of developers to build systems tailored to the company’s needs.
 
-- 👩🏼‍💻 I started my journey in nov/2021 learning the basics of HTML, CSS and then the basics of Python, I then decided to join Digital Futures.🚀  
-  
+🎓 I graduated from the Digital Futures Software Engineering Academy, completing a 12-week intensive program that strengthened my Full Stack skills. I've also developed a full MERN stack project, including a mobile app, called *GamingNetworkApp*.
 
-- 🎓 I recently completed the Digital Futures 12 weeks Software Engineering Academy.  
-  
+🌐 In addition, I’m excited to be working on a non-profit project with three friends in Brazil, creating a website for an NGO to help speed up the adoption process for abandoned and mistreated animals.
 
-- 💻At the moment I’m practicing what I have been studying and working on a few repositories, so please bear with me if some of my repo are still a WIP. I recently finish working on a MERN full Stack Project including a mobile app. [GamingNetworkApp](https://github.com/DafneRibeiro/GamingNetworkApp)  
+🔍 Currently, I’m focused on advancing my skills in C# and Blazor for backend and frontend development.
 
-- I am also happy to share that together with 3 amazing women, we are starting a non-profitable project for a NGO in Brazil, a website to help them relocate mistreated and abandoned animals faster.
-  
+📬 How to reach me: **dafsru@gmail.com**
 
-- 🔭 I’m currently preparing for the Java OCA SE 8 certification.  
-  
-
-- 🧠 I'm looking foward to learn more technologies like: Golang, Python, Ruby, and a few more.  
-  
-
-- 📫 How to reach me: dafsru@gmail.com  
-  
-
-- ⚡ About me: I am Brazilian/Italian, I am currently living in the UK, and I come from a non Tech background.
-Software Engineering motivates me because I learn something new everyday, and It is very challenging and pushes me to try to be my best everyday .🌟
-
-I have always been a self-starter and love learning things by myself.
-  
+⚡ I’m Brazilian-Italian and currently living in the UK, coming from a non-tech background. Software Engineering inspires me with its daily challenges, learning opportunities, and autonomy, driving me to grow and strive for my best. 🌟
 
 <br/>  
 
