@@ -1,8 +1,8 @@
 ### <div align="center">I'm Dafne Ribeiro, a Software Developer specialising in the .NET Ecosystem. 👨‍💻 </div>  
 
-🚀 Currently a **Software Developer at Auger**, where I was promoted from Junior in just 7 months. I specialise in building enterprise-grade tools using **C#, Blazor, and .NET MAUI**.
+🚀 Currently a **Software Developer at Auger**. I specialise in building enterprise-grade tools using **C#, Blazor, and .NET MAUI**.
 
-🎮 **AAA Game Background:** Before transitioning to full-time development, I spent years in **LQA at Universally Speaking**, contributing to world-class titles like **The Last of Us Part I**, **Payday 3**, and the **Dragon Ball franchise**. This background gives me a unique "QA-first" mindset in every line of code I write.
+🎮 **AAA Game Background:** Before transitioning to full-time development, I spent years in **LQA at Universally Speaking**, contributing to world-class titles like **The Last of Us Part I**, **Payday 3**(Official Credits), and the **Dragon Ball franchise**. This background gives me a unique "QA-first" mindset in every line of code I write.
 
 🔧 **Recent Impact:** - Architected a centralised **UI/UX Theming System** across 5 enterprise platforms.
 - Developed **Job-Packs**, a structural data-grouping system for mobile field engineers.
